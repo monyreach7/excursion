@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+}
+header {
+  text-align: center;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+}
+footer {
+  color: white;
+  text-align: right;
+  color: gray;
+}
+
+.link {
+  font-size: 16px;
+  text-decoration: underline;
+  color: aquamarine;
+}
+
+.mobile-display {
+  text-align: center;
+}
+
+.details {
+  color: white;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.details h1 {
+  font-weight: 300px;
+  font-size: 42px;
+}
+
+.details h3 {
+  font-size: 21px;
+  color: gray;
+}
+
+.small-phone-icon {
+  margin-top: 20px;
+}
